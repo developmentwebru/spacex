@@ -1,0 +1,37 @@
+
+.dropdown {
+    width: 100%;
+    height: 200px;  
+}
+
+.dropdown__item{
+    left: 50%;
+    margin-left: 20px;
+    height: 100px;
+    float: left;
+}
+
+.dropdown_launch {
+    float: left;
+}
+
+.dropdown_rocket {
+    float: left;
+}
+
+select {
+    padding: 10px;
+}
+
+.dropdown_rocket p, select{
+    display: inline;
+    margin: 30px;
+}
+.dropdown_launch p,
+ .dropdown_rocket p{
+    display: inline;
+    margin-top: 30px;
+    margin: 40px;
+    font-size: 20px;
+    font-weight: 700;
+}
